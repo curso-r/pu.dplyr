@@ -14,7 +14,6 @@ knitr::opts_chunk$set(
 > 
 > Hadley Wickham
 
-
 ## Pacotes `dplyr` e `tidyr`
 
 A transformação de dados é uma tarefa dolorosa e demorada, tomando muitas vezes a maior parte do tempo de uma análise estatística.
