@@ -11,7 +11,6 @@ date: '2017-01-19'
 > 
 > Hadley Wickham
 
-
 ## Pacotes `dplyr` e `tidyr`
 
 A transformação de dados é uma tarefa dolorosa e demorada, tomando muitas vezes a maior parte do tempo de uma análise estatística.
